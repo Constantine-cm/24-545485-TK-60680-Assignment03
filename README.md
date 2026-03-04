@@ -17,4 +17,4 @@ Mengingat saya menggunakan environment macOS dengan `clang++`, berikut adalah pe
 * Binary search pada Problem 3 mengasumsikan input array sudah terurut (sesuai fungsi generator).
 
 ## Time Spent
-* Sekitar 4 jam untuk menyelesaikan keseluruhan analisis, implementasi, dan *debugging*.# 24-545485-TK-60680-Assignment03
+* Sekitar 4 jam untuk menyelesaikan keseluruhan analisis, implementasi, dan *debugging*.
