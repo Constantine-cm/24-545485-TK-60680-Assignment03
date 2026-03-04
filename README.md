@@ -1,6 +1,7 @@
 # Assignment 03 - Algoritma Stuktur Data
 
-**Name:Christian Bo Constantine** 
+**Name: Christian Bo Constantine**
+
 **Student ID: 24/545485/TK/60680** 
 
 ## Description
