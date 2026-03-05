@@ -5,7 +5,7 @@
 **Student ID: 24/545485/TK/60680** 
 
 ## Description
-* **Problem 1:** Perhitungan *Cost*, *T(n)*, dan kompleksitas masing-masing kode *snippet* yang berisikan penjelasan lebih lanjut*
+* **Problem 1:** Perhitungan *Cost*, *T(n)*, dan kompleksitas masing-masing kode *snippet* yang berisikan penjelasan lebih lanjut.
 * **Problem 2:** Implementasi *Dynamic Array* dari awal menggunakan pendekatan prosedural (struct dan fungsi lepas) di C++, termasuk manajemen memori dinamis (*resize*, *insert*, *remove*) tanpa kebocoran memori.
 * **Problem 3:** Implementasi dan perbandingan antara *Linear Search* dan *Binary Search* secara iteratif pada array yang dialokasikan di *heap*.
 * **Problem 4:** Perhitungan *Growth Factor Comparison* dan analisis lebih lanjutnya.
